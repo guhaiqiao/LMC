@@ -1,6 +1,6 @@
 # Replication Package for 'Self-Admitted Library Migrations in Java, JavaScript, and Python Packaging Ecosystems: A Comparative Study'
 
-This is the replication package for our SANER 2023 paper *Self-Admitted Library Migrations in Java, JavaScript, and Python Packaging Ecosystems: A Comparative Study*. It can be used to replicate all four research questions in the paper using our preprocessed and manually labeled data. The replication package have been permanently archived at XXXX.
+This is the replication package for our SANER 2023 paper *Self-Admitted Library Migrations in Java, JavaScript, and Python Packaging Ecosystems: A Comparative Study*. It can be used to replicate all four research questions in the paper using our preprocessed and manually labeled data. The replication package have been permanently archived at https://zenodo.org/record/7524377.
 
 ## Introduction
 
