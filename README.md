@@ -8,7 +8,7 @@ Reusing open-source software libraries has become the norm in modern software de
 In some cases, developers need to replace a library with another competent library with similar functionalities, i.e., *library migration*.
 Previous studies have leveraged library migrations as a unique lens of observation to reveal insights into library selection and dependency management in general. However, they are heavily biased toward Java while the generalizability of their findings remains unknown.
 
-We aim to empirically investigate the prevalence, domains, rationals and directionality of self-admitted library migrations(SALMs) in Java/Maven, Python/PyPI, and JavaScript/npm, that explain *how* and *why* SALMs occur and well serve the comparison.
+We aim to empirically investigate the prevalence, domains, rationales and directionality of self-admitted library migrations (SALMs) in Java/Maven, Python/PyPI, and JavaScript/npm, that explain *how* and *why* SALMs occur and well serve the comparison.
 We attempt to prove that SALMs are indeed universal (i.e., not unique to Java/Maven) and demonstrate some sort of common patterns (e.g., unidirectionality); the rationales can also help the establishment of best practices for library selection and migration.
 
 More specifically, we ask the following research questions:
